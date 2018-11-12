@@ -1,6 +1,8 @@
 # DTools
 DTools, your all-in-one Display tool kit.
 
+For more information, see the website
+
 ## Features
 You can change the resolution, color density, or refresh rate.
 
